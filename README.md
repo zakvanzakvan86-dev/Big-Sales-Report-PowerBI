@@ -12,7 +12,7 @@ Designed and developed an end-to-end sales analytics dashboard in Power BI using
 ---
 
 ## 📌 Project Overview
-
+![Dashboard Preview](dashboard.png)
 Built interactive visuals including a time-series trend chart, US state-level geographic heatmap, ranked sub-category bar chart, and customer segment pie chart. Implemented dynamic DAX measures and Power Query transformations to enable real-time filtering by state, category, and date range.
 
 | Total Profit | Total Sales | Total Orders | Avg Discount |
